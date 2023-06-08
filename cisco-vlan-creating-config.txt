@@ -1,0 +1,2 @@
+conf t
+interface vlan 2
